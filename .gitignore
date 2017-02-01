@@ -1,0 +1,5 @@
+/.cache-main
+/bin/
+/.worksheet/
+/target/
+/application.conf
