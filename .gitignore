@@ -1,5 +1,7 @@
 /.cache-main
-/bin/
 /.worksheet/
 /target/
-/application.conf
+application.conf
+twitter4j.properties
+
+
